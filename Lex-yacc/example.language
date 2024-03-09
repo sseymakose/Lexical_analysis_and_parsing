@@ -1,0 +1,15 @@
+START()
+
+\* odevi hazırlayan: SEYMA KOSE \*
+
+
+x --> 8
+y --> 5
+
+
+FOR:
+	abc: x > y
+	EXIT
+
+
+END()
